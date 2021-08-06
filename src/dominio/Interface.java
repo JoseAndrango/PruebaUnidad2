@@ -1,0 +1,6 @@
+
+package dominio;
+
+interface Interface {
+    
+}
